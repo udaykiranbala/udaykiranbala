@@ -185,9 +185,6 @@ A student-focused database application exploring the connection between applicat
 <p align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaykiranbala&theme=github_dark" alt="GitHub profile activity summary"/>
 </p>
-
-<img width="95%" src="https://https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaykiranbala&theme=github_dark?username=udaykiranbala&bg_color=050816&color=D1D5DB&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
-
 </div>
 
 <sub>These cards are provided by external services and may occasionally be unavailable, cached, or subject to rate limits. Language cards reflect detected languages in public repositories, not a definitive measure of skill. Private contributions may not be represented.</sub>
