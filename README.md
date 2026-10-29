@@ -187,7 +187,7 @@ A student-focused database application exploring the connection between applicat
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=udaykiranbala&bg_color=050816&color=D1D5DB&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+<img width="95%" src="https://https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaykiranbala&theme=github_dark?username=udaykiranbala&bg_color=050816&color=D1D5DB&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 
 </div>
 
