@@ -178,7 +178,7 @@ A student-focused database application exploring the connection between applicat
   <img height="180" src="https://https://github-profile-summary-cards.vercel.app/api/cards/stats?username=udaykiranbala&theme=github_dark&show_icons=true&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=D1D5DB&icon_color=A78BFA&rank_icon=github" alt="GitHub statistics for udaykiranbala"/>
 </a>
 <a href="https://github.com/udaykiranbala">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykiranbala&layout=compact&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=D1D5DB" alt="Most-used public repository languages"/>
+  <img height="180" src="https://https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=udaykiranbala&theme=github_dark?username=udaykiranbala&layout=compact&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=D1D5DB" alt="Most-used public repository languages"/>
 </a>
 
 <br/>
