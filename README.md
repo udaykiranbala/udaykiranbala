@@ -183,7 +183,7 @@ A student-focused database application exploring the connection between applicat
 
 <br/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=udaykiranbala&hide_border=true&background=050816&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=D1D5DB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+<img width="95%" src="https://https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaykiranbala&theme=github_dark?user=udaykiranbala&hide_border=true&background=050816&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=D1D5DB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 
 <br/>
 
