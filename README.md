@@ -186,16 +186,6 @@ A student-focused database application exploring the connection between applicat
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaykiranbala&theme=github_dark" alt="GitHub profile activity summary"/>
 </p>
 
-<a href="https://github.com/udaykiranbala">
-  <img height="180" src="https://https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=udaykiranbala&theme=github_dark?username=udaykiranbala&layout=compact&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=D1D5DB" alt="Most-used public repository languages"/>
-</a>
-
-<br/>
-
-<img width="95%" src="https://https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaykiranbala&theme=github_dark?user=udaykiranbala&hide_border=true&background=050816&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=D1D5DB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
-
-<br/>
-
 <img width="95%" src="https://https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaykiranbala&theme=github_dark?username=udaykiranbala&bg_color=050816&color=D1D5DB&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 
 </div>
